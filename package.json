@@ -1,0 +1,25 @@
+{
+    "name": "simple-react-star-ratings",
+    "version": "1.0.0",
+    "description": "The typical rating star component with number indicator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "star",
+        "rating",
+        "star rating",
+        "react-star-rating",
+        "starrating",
+        "star rating with numbers",
+        "rating-numbers"
+    ],
+    "peerDependencies": {
+        "prop-types": "^15.8.1",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "author": "janithsamee",
+    "license": "MIT"
+}
