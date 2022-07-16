@@ -10,12 +10,26 @@ npm install simple-react-star-rating
 
 ## With number indicator
 
+![star-rating](/_images/rating_with_number.png)
+
 ## Without number indicator
+
+![star-rating](/_images/rating_without_number.png)
 
 ## Examples
 
 ```js
-      import StarRating from 'simple-react-star-rating
+import StarRating from "./StarRating/StarRating";
+
+function App() {
+    return (
+        <div>
+            <StarRating showNumaric={true} size="16pt" value={3}></StarRating>
+        </div>
+    );
+}
+
+export default App;
 ```
 
 ## Properties

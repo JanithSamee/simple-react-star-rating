@@ -1,5 +1,5 @@
 {
-    "name": "simple-react-star-ratings",
+    "name": "simple-react-star-rating",
     "version": "1.0.0",
     "description": "The typical rating star component with number indicator",
     "main": "index.js",
