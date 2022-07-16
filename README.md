@@ -19,7 +19,7 @@ npm install simple-react-star-rating
 ## Examples
 
 ```js
-import StarRating from "./StarRating/StarRating";
+import StarRating from "simple-react-star-rating";
 
 function App() {
     return (
